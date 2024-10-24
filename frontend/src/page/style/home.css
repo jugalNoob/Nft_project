@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Lunasima&family=Open+Sans&family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+.first-backGround{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    overflow-y: scroll;
+
+}
+
+.first-flexl{
+display: flex;
+align-items: center;
+text-align: center;
+
+}
+
+.spans span{
+
+    font-size: 2rem;
+    color: white;
+    margin-left: 15px;
+}
+
+
+.head-one{
+
+}
+
+.head-one h1{
+    color: rgb(89, 0, 255);
+    text-transform: capitalize;
+    letter-spacing:.5px ;
+    margin-left: 15px;
+    font-family: 'Lunasima', sans-serif;
+}
+
+.nav{
+display: flex;
+margin-left: 200px;
+}
+
+.nav a{
+    color: white;
+    margin: 10px;
+    text-transform: capitalize;
+    text-decoration: none;
+/* font-weight: bold; */
+font-size: 1.3rem;
+}
+
+
+.nav button{
+    outline: none;
+    border: none;
+    background-color: transparent;
+    color: white;
+    text-transform: capitalize;
+    font-size: 1.1rem;
+    border-radius: 7px;
+    font-weight: bold;
+
+
+}
+
+.nav a:nth-child(1){
+    background-color: rgb(89, 0, 255) ;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.second{
+    margin-top:150px ;
+
+}
+
+
+.head-two{
+    text-align: center;
+}
+
+
+.head-two h1{
+color: white;
+text-align: center;
+text-transform: capitalize;
+padding: 5px;
+font-family: 'Open Sans', sans-serif;
+letter-spacing: 3px;
+}
+
+
+.head-two h2{
+    color: rgb(89, 0, 255);
+    padding: 5px;
+    text-transform: capitalize;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 3px;
+}
+
+.head-two h3{
+color: white;
+padding: 5px;
+text-transform: capitalize;
+font-family: 'Open Sans', sans-serif;
+letter-spacing: 3px;
+}
+
+
+.head-two button{
+outline: none;
+border: none;
+width: 70px;
+padding: 7px;
+border-radius: 10px;
+text-transform: capitalize;
+background-color:rgb(89, 0, 255);
+color: white;
+font-weight: bold;
+font-size: 1rem;
+}
+
+
+
+.third-row{
+    margin-top: 50px;
+
+}
+
+
+.flex-third{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.image1{
+
+    margin: 50px;
+    border: 2px solid gray;
+  
+    padding: 25px;
+    border-radius: 14px;
+}
+
+.image1 img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 14px;
+}
+
+
+.image2{
+    margin: 50px;
+    border: 2px solid gray;
+    padding: 25px;
+    border-radius: 14px;
+ 
+}
+
+.image2 img{
+    
+    width: 250px;
+    height: 300px;
+    border-radius: 14px;
+    object-fit: contain;
+  
+}
+
+.image3{
+    margin: 50px;
+    border: 2px solid gray;
+    padding: 25px;
+    border-radius: 14px;
+}
+
+.image3 img{
+    
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 14px;
+}

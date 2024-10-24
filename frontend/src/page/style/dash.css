@@ -1,0 +1,62 @@
+.cookbackground{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+}
+
+.cookback{
+   
+    margin: auto;
+    width: 600px;
+    height: 500px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-radius: 22px;
+    background: #8f93d6;
+    box-shadow: inset 5px 5px 10px #777ab2,
+                inset -5px -5px 10px #a7acfa;
+                margin-top: 100px;
+}
+
+.images {
+
+    text-align: center;
+   
+}
+
+.images img{
+    width: 70px;
+    height: 70px;
+    border-radius: 7px;
+    margin-top: 20px;
+}
+
+.user{
+margin-top: 50px;
+}
+
+.user h1{
+    color: white;
+    font-size: 1rem;
+    text-transform: capitalize;
+    text-align: center;
+    margin: 20px;
+}
+
+
+.user h3{
+    color: white;
+    font-size: 0.8rem;
+    text-transform: capitalize;
+    text-align: center;
+    margin: 20px;
+}
+
+.user h6{
+    color: white;
+
+    text-transform: capitalize;
+    text-align: center;
+    margin: 20px;
+}

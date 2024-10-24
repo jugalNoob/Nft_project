@@ -1,0 +1,165 @@
+.Erc{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    overflow-y: scroll;
+    position: fixed;
+}
+
+.checktotal{
+text-align: center;
+}
+
+
+.checktotal h1{
+    color: white;
+    text-transform: capitalize;
+    align-items: center;
+}
+
+
+.checkname{
+
+}
+
+.checkname h1{
+    color: white;
+    text-transform: capitalize;
+   text-align: center;
+}
+
+.balancess{
+
+    margin-top: 100px;
+}
+
+.balancess input[type="text"]{
+    outline: none;
+    border: none;
+    padding: 7px;
+    border-radius: 7px;
+
+}
+
+.balancess input[type="text"]::placeholder{
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.balancess  button{
+    outline: none;
+    border: none;
+    padding: 7px;
+    margin-top: 50px;
+    text-transform: capitalize;
+    font-weight: bold;
+    background-color: gray;
+    color: white;
+
+}
+
+
+/* tranfer token all */
+
+
+
+
+.btranferer{
+
+    margin-top: 100px;
+}
+
+.tranferer input[type="text"]{
+    outline: none;
+    border: none;
+    padding: 7px;
+    border-radius: 7px;
+
+}
+
+.tranferer input[type="text"]::placeholder{
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.tranferer  button{
+    outline: none;
+    border: none;
+    padding: 7px;
+    margin-top: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+    background-color: gray;
+    color: white;
+    
+}
+
+/* mint your token start */
+
+
+
+
+.Mintess{
+
+    margin-top: 100px;
+}
+
+.Mintess input[type="text"]{
+    outline: none;
+    border: none;
+    padding: 7px;
+    border-radius: 7px;
+
+}
+
+.Mintess input[type="text"]::placeholder{
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.Mintess  button{
+    outline: none;
+    border: none;
+    padding: 7px;
+    margin-top: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+    background-color: gray;
+    color: white;
+    
+}
+
+
+/* burn token start line */
+
+
+
+.burness{
+
+    margin-top: 100px;
+}
+
+.burness input[type="text"]{
+    outline: none;
+    border: none;
+    padding: 7px;
+    border-radius: 7px;
+
+}
+
+.burness input[type="text"]::placeholder{
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.burness  button{
+    outline: none;
+    border: none;
+    padding: 7px;
+    margin-top: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+    background-color: gray;
+    color: white;
+    
+}

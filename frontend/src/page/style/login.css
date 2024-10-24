@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Lunasima&family=Roboto&display=swap');
+
+
+.login-background{
+    background-image: linear-gradient(to left bottom, #b2d30e, #61bc49, #00a066, #00816f, #006064, #136168, #21626c, #2c636f, #268894, #14aeb6, #00d6d5, #00ffef);
+    width: 100%;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+
+
+
+.login{
+    margin: auto;
+    width: 50%;
+    height: 500px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-radius: 22px;
+    background: #8f93d6;
+    box-shadow: inset 5px 5px 10px #777ab2,
+                inset -5px -5px 10px #a7acfa;
+}
+
+
+
+.login input[type="password"]{
+
+    outline: none;
+    border: none;
+    margin-top: 20px;
+    padding: 7px;
+    border-radius: 7px;
+} 
+
+.login input[type="password"]::placeholder{
+    text-transform: capitalize;
+    font-family: 'Lunasima', sans-serif;
+
+}
+
+
+
+
+.login input[type="email"]{
+
+    outline: none;
+    border: none;
+    margin-top: 20px;
+    padding: 7px;
+    border-radius: 7px;
+} 
+
+
+
+.login button{
+
+    outline: none;
+    border: none;
+    margin-top: 20px; 
+    padding: 7px;
+    width: 170px;
+border-radius:7px ;
+font-family: 'Lunasima', sans-serif;
+font-weight: bold;
+text-transform: capitalize;
+background-color: black;
+color: white;
+
+}
+

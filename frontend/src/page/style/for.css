@@ -1,0 +1,90 @@
+.allform{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    }
+    
+
+    .Ramdoms{
+
+    }
+
+    .Ramdoms h1{
+        color: white;
+        text-transform: capitalize;
+    }
+
+    .Ramdoms button{
+        outline: none;
+        border: none;
+        padding: 7px;
+        background-color: aqua;
+        color: rgb(0, 0, 0);
+        border-radius:7px ;
+        text-transform: capitalize;
+        font-weight: bold;
+    }
+    .forms {
+        margin-top: 50px;
+    }
+    
+    .forms h1{
+    color: white;
+    text-transform: capitalize;
+    }
+    
+    
+    .forms p{
+        color: white;
+        text-transform: capitalize;
+        }
+    
+    
+        .forms input[type="text"] {
+        outline: none;
+        border: none;
+        padding: 7px;
+        border-radius: 7px;
+        text-transform: capitalize;
+        font-weight: bold;
+    
+        }
+    
+    
+        
+        .forms input[type="email"] {
+            outline: none;
+            border: none;
+            padding: 7px;
+            border-radius: 7px;
+            text-transform: capitalize;
+            font-weight: bold;
+            
+            }
+    
+    
+            
+        .forms input[type="password"] {
+            outline: none;
+            border: none;
+            padding: 7px;
+            border-radius: 7px;
+            text-transform: capitalize;
+            font-weight: bold;
+            
+            }
+    
+    
+            .forms  button{
+                outline: none;
+                border: none;
+                padding: 7px;
+                border-radius: 7px;
+                width: 100px;
+                background-color: gray;
+                color:white;
+                text-transform: capitalize;
+                letter-spacing: 3px;
+    
+            }
